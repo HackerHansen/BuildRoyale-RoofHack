@@ -25,11 +25,11 @@ If you already have cheat engine, update to version 7.1
 
 7.) Look to the left and look at the PID. 
 
-![PID Task Manager](https://cdn.discordapp.com/attachments/693548483130556610/748647871355813939/pidtaskmgr.PNG)
+![PID Task Manager](https://i.imgur.com/4Ce29Qm.png)
 
 8.) Start "BuildRoyaleRoofs.CETRAINER" and type the PID into the "PID" box. 
 
-![PID Trainer](https://cdn.discordapp.com/attachments/693548483130556610/748648273279057961/10832pid.PNG)
+![PID Trainer]()
 
 9.) Press "attach process." 
 
