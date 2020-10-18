@@ -1,6 +1,8 @@
 # BuildRoyale-RoofHack
 Cheat engine thingy that lets you see through roofs in Buildroyale.io 
 
+I threw this together in a few minutes so the GUI is kinda bad, but it's usable. 
+
 ## Instructions: 
 
 1.) Download Cheat Engine from https://cheatengine.org/ 
