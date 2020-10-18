@@ -35,3 +35,4 @@ If you already have cheat engine, update to version 7.1
 
 10.) Click the big "disable roofs" button. 
 
+## There's no support so if this doesn't work it probably won't be fixed. This was just made for fun. Also, please don't use this in competitive events. 
