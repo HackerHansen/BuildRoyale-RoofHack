@@ -35,12 +35,3 @@ If you already have cheat engine, update to version 7.1
 
 10.) Click the big "disable roofs" button. 
 
-
-### Apparently the devs of this game don't care about the anticheat, so here's a free client mod you can use. 
-
-Here is proof: 
-
-![Proof](https://i.imgur.com/NlzlYFL.png)
-
-##### However, they probably would have a problem with using mods in competitive events so don't do that. 
-
